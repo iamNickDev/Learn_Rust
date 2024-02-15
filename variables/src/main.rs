@@ -33,4 +33,9 @@ fn main() {
     let remainder = 43 % 5;
     println!("The value of remainder: {remainder}");
 
+
+    let t  = true ;
+
+
+
 }
